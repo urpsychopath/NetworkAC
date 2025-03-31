@@ -1,0 +1,68 @@
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">Network ALAGBO KOFFI URIEL/COULIBALY MALICK AXEL</string>
+
+    <!-- Chaînes générales -->
+    <string name="add_object">Ajouter un objet</string>
+    <string name="enter_label">Entrez l\'étiquette</string>
+    <string name="node_default_label">Nœud</string>
+    <string name="node_label_format">Nœud %1$d</string>
+    <string name="connection_default_label">Connexion</string>
+
+    <!-- Sauvegarde et chargement -->
+    <string name="save_graph_success">Graphe sauvegardé</string>
+    <string name="save_graph_error">Erreur lors de la sauvegarde</string>
+    <string name="load_graph_success">Graphe chargé</string>
+    <string name="load_graph_error">Erreur lors du chargement</string>
+
+    <!-- Menus et actions -->
+    <string name="delete_object">Supprimer l\'objet</string>
+    <string name="change_color">Changer la couleur</string>
+    <string name="edit_label">Modifier le label</string>
+    <string name="delete_connection">Supprimer la connexion</string>
+    <string name="edit_connection_label">Modifier l\'étiquette de la connexion</string>
+    <string name="change_connection_color">Changer la couleur de la connexion</string>
+    <string name="change_connection_thickness">Modifier l\'épaisseur de la connexion</string>
+    <string name="change_connection_curvature">Modifier la courbure de la connexion</string>
+    <string name="move_object">Déplacer l\'objet</string>
+
+    <!-- Navigation drawer -->
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+
+    <!-- Boutons -->
+    <string name="button_add">Ajouter</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="button_ok">OK</string>
+
+    <!-- Toasts -->
+    <string name="toast_node_added">Nœud ajouté</string>
+    <string name="toast_mode_connection">Mode connexion activé</string>
+    <string name="toast_reset_connections">Connexions réinitialisées</string>
+    <string name="toast_mode_move">Mode déplacement activé</string>
+    <string name="toast_color_red">Rouge sélectionné</string>
+    <string name="toast_color_green">Vert sélectionné</string>
+    <string name="toast_color_blue">Bleu sélectionné</string>
+    <string name="toast_color_orange">Orange sélectionné</string>
+    <string name="toast_color_cyan">Cyan sélectionné</string>
+    <string name="toast_color_magenta">Magenta sélectionné</string>
+    <string name="toast_color_black">Noir sélectionné</string>
+    <string name="thickness_value">Épaisseur : %1$d</string>
+
+
+
+    <!-- Nouveaux messages -->
+    <string name="node_outside_plan">Le nœud doit être dans le plan.</string>
+    <string name="curvature_value">Courbure : %1$d</string>
+    <string name="choose_icon">Choisir l\'icône</string>
+    <string name="icon_selected">Icône sélectionnée</string>
+    <string name="icon_label">Icône %1$d</string>
+
+
+    <!-- Navigation Menu -->
+    <string name="add_connection">Ajouter une connexion</string>
+    <string name="reset_graph">Réinitialiser le graphe</string>
+    <string name="save_graph">Sauvegarder le réseau</string>
+    <string name="load_graph">Charger le réseau</string>
+    <string name="move_nodes">Déplacer les nœuds</string>
+</resources>

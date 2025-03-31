@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_edit_label"
+        android:title="@string/edit_label"
+        android:icon="@drawable/ic_edit" />
+    <item
+        android:id="@+id/menu_move_node"
+        android:title="@string/move_object"
+        android:icon="@drawable/ic_move" />
+    <item
+        android:id="@+id/menu_delete_node"
+        android:title="@string/delete_object"
+        android:icon="@drawable/ic_delete" />
+    <item
+        android:id="@+id/menu_change_color"
+        android:title="@string/change_color"
+        android:icon="@drawable/ic_color_lens" />
+    <item
+        android:id="@+id/menu_choose_icon"
+        android:title="@string/choose_icon"
+        android:icon="@drawable/ic_color_lens" />
+</menu>

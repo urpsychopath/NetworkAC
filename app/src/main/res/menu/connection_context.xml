@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_delete_connection"
+        android:title="@string/delete_connection"
+        android:icon="@drawable/ic_delete"/>
+    <item
+        android:id="@+id/menu_edit_connection_label"
+        android:title="@string/edit_connection_label"
+        android:icon="@drawable/ic_edit"/>
+    <item
+        android:id="@+id/menu_change_connection_color"
+        android:title="@string/change_connection_color"
+        android:icon="@drawable/ic_color_lens"/>
+    <item
+        android:id="@+id/menu_change_connection_thickness"
+        android:title="@string/change_connection_thickness"
+        android:icon="@drawable/ic_thickness"/>
+
+</menu>

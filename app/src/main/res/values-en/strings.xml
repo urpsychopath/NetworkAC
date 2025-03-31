@@ -1,0 +1,66 @@
+<resources>
+    <!-- Application name -->
+    <string name="app_name">Network ALAGBO KOFFI URIEL/COULIBALY MALICK AXEL</string>
+
+    <!-- General strings -->
+    <string name="add_object">Add Object</string>
+    <string name="enter_label">Enter label</string>
+    <string name="node_default_label">Node</string>
+    <string name="node_label_format">Node %1$d</string>
+    <string name="connection_default_label">Connection</string>
+
+    <!-- Save/Load -->
+    <string name="save_graph_success">Graph saved</string>
+    <string name="save_graph_error">Error saving graph</string>
+    <string name="load_graph_success">Graph loaded</string>
+    <string name="load_graph_error">Error loading graph</string>
+
+    <!-- Menus and actions -->
+    <string name="delete_object">Delete Object</string>
+    <string name="change_color">Change color</string>
+    <string name="edit_label">Edit label</string>
+    <string name="delete_connection">Delete connection</string>
+    <string name="edit_connection_label">Edit connection label</string>
+    <string name="change_connection_color">Change connection color</string>
+    <string name="change_connection_thickness">Change connection thickness</string>
+    <string name="change_connection_curvature">Change connection curvature</string>
+    <string name="move_object">Move Object</string>
+
+    <!-- Navigation drawer -->
+    <string name="navigation_drawer_open">Open Menu</string>
+    <string name="navigation_drawer_close">Close Menu</string>
+
+    <!-- Buttons -->
+    <string name="button_add">Add</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_ok">OK</string>
+
+    <!-- Toasts -->
+    <string name="toast_node_added">Node added</string>
+    <string name="toast_mode_connection">Connection mode activated</string>
+    <string name="toast_reset_connections">Connections reset</string>
+    <string name="toast_mode_move">Move mode activated</string>
+    <string name="toast_color_red">Red selected</string>
+    <string name="toast_color_green">Green selected</string>
+    <string name="toast_color_blue">Blue selected</string>
+    <string name="toast_color_orange">Orange selected</string>
+    <string name="toast_color_cyan">Cyan selected</string>
+    <string name="toast_color_magenta">Magenta selected</string>
+    <string name="toast_color_black">Black selected</string>
+    <string name="thickness_value">thickness : %1$d</string>
+    <string name="choose_icon">Choose Icon</string>
+    <string name="icon_selected">Icon selected</string>
+    <string name="icon_label">Icon %1$d</string>
+
+
+    <!-- New messages -->
+    <string name="node_outside_plan">Node must be within the plan.</string>
+    <string name="curvature_value">Curvature: %1$d</string>
+
+    <!-- Navigation Menu -->
+    <string name="add_connection">Add Connection</string>
+    <string name="reset_graph">Reset Graph</string>
+    <string name="save_graph">Save Network</string>
+    <string name="load_graph">Load Network</string>
+    <string name="move_nodes">Move Nodes</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add_node"
+            android:title="@string/add_object"
+            android:icon="@drawable/ic_add_node"/>
+        <item
+            android:id="@+id/nav_add_connection"
+            android:title="@string/add_connection"
+            android:icon="@drawable/ic_add_connection"/>
+        <item
+            android:id="@+id/nav_reset_graph"
+            android:title="@string/reset_graph"
+            android:icon="@drawable/ic_reset"/>
+        <item
+            android:id="@+id/nav_save_graph"
+            android:title="@string/save_graph"
+            android:icon="@drawable/ic_save"/>
+        <item
+            android:id="@+id/nav_load_graph"
+            android:title="@string/load_graph"
+            android:icon="@drawable/ic_load"/>
+        <item
+            android:id="@+id/nav_move_node"
+            android:title="@string/move_nodes"
+            android:icon="@drawable/ic_move"/>
+    </group>
+</menu>
